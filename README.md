@@ -9,4 +9,4 @@ Kaufman386/Kaufman386 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 Here is my most recent project, OptiCycle. I completed this with my team back in June 2021, which won us 2nd place in CodePath.org's National App Competition. Check it out!
-https://www.youtube.com/watch?v=nXIwYlUEtio
+[![IVkLENk - Imgur](https://user-images.githubusercontent.com/44587335/138746146-b1a7059c-b254-4ea2-acb1-2bf24393f3bc.png)](https://www.youtube.com/watch?v=nXIwYlUEtio)
