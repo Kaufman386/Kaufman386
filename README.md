@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Kaufman386
 - 👀 I’m interested in Computer Science and Data Science, but am willing to learn anything to be of help on a project!
-- 🌱 I’m currently learning Systems Programming and Deep Learning with Nvidia Jetson Software.
-- 💞️ I’m looking to collaborate on any startups or projects for good causes!
-- 📫 You can reach me by my email: mjk6521@psu.edu
+- 🌱 I’m currently learning Natural Language Processing with emphasis in Named Entity Recognition.
+- 💞️ I’m looking for to intern for the 2023 summer or to collaborate on any startups or projects for good causes!
+- 📫 You can reach me by my email: mikael.j.kaufman@gmail.com
 
 <!---
 Kaufman386/Kaufman386 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
